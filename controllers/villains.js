@@ -1,4 +1,3 @@
-
 const models = require('../models')
 
 const getAllVillains = async (request, response) => {
